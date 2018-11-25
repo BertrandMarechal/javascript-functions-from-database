@@ -1,0 +1,24 @@
+{
+  "name": "javascript-functions-from-database",
+  "version": "1.0.0",
+  "description": "Testing the possibility to store javascript functions in databases",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertrandMarechal/javascript-functions-from-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BertrandMarechal/javascript-functions-from-database/issues"
+  },
+  "homepage": "https://github.com/BertrandMarechal/javascript-functions-from-database#readme",
+  "dependencies": {
+    "pg-promise": "^8.5.2",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  }
+}
