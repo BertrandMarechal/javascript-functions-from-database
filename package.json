@@ -4,6 +4,7 @@
   "description": "Testing the possibility to store javascript functions in databases",
   "main": "main.js",
   "scripts": {
+    "start": "ts-node main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/BertrandMarechal/javascript-functions-from-database#readme",
   "dependencies": {
+    "@types/node": "^10.12.10",
     "pg-promise": "^8.5.2",
     "ts-node": "^7.0.1",
     "typescript": "^3.1.6"
